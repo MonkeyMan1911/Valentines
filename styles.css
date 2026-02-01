@@ -39,6 +39,7 @@ body {
     border-radius: 50px;
     border: none;
     margin: 0 5px; /* adds 5px on each side */
+    margin-top: 5px;
 }
 
 #yes-btn {
